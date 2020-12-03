@@ -24,3 +24,8 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed; */
 }
+
+#filler {
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9)),
+    url(../img/DepotMie52Baru.png) center/cover no-repeat fixed;
+}
